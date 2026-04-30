@@ -52,7 +52,7 @@ This project aims to answer:
 - Red → Poor access  
 
 Marker size represents congestion (road density)
-
+![Map Output](output.png)
 ---
 
 ## 🛠️ Tech Stack
